@@ -9,12 +9,12 @@
 
 }
 
-#btn{
+#submit{
 	color:wheat;
 	background-color:black;
 	border-radius:100px;
 }
-#btn:hover{
+#submit:hover{
 	background-color:red;
 	cursor:pointer;
 	padding-bottom:10px;
