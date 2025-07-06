@@ -1,2 +1,22 @@
+#form
+{
+	text-align:center;
+	background-color:lightblue;
+	margin-top:50px;
+	border: 1px solid ;
+	height:350px;
+	border-radius:5px;
 
-/* Your CSS Code here. */
+}
+
+#btn{
+	color:wheat;
+	background-color:black;
+	border-radius:100px;
+}
+#btn:hover{
+	background-color:red;
+	cursor:pointer;
+	padding-bottom:10px;
+	transition:0.8s
+}
